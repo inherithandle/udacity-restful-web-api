@@ -1,12 +1,9 @@
-# Express.JS Exercise with Node.js
+# A RESTful server in Node js
 
-In this exercise you will practice a creation of a web service that respond with the block hash.
+A RESTful server that allows us to read and write blocks in a private blockchain
 
-## Steps to follow
+## Steps to deploy a server.
 
-1. Clone the repository to your local computer.
-2. Open the terminal and install the packages: `npm install`.
-3. Open the file `app.js`and `BlockController.js` and start coding.
-4. Run your application `node app.js`
-5. Test your Endpoints with Curl or Postman.
-6. Answer the quiz in the classroom.
+1. package.json is all set. just `node app.js`
+
+

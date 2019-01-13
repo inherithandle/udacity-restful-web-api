@@ -16,6 +16,8 @@ class BlockAPI {
 		this.initExpress();
 		this.initExpressMiddleWare();
 		this.initControllers();
+
+		// something that initiailize 10 blocks if it is a empty chain?
 		this.start();
 	}
 
